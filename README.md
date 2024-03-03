@@ -1,6 +1,6 @@
 # Networking in C++
 
-![alt text](https://github.com/thenaserov/networking_in_cplusplus/res/networking.gif)
+![alt text](https://github.com/thenaserov/networking_in_cplusplus/blob/main/res/networking.gif)
 
 # Why are you here?
 We are here to connect computers and write projects with it!
