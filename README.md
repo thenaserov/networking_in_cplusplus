@@ -12,3 +12,6 @@ https://github.com/thenaserov/VenusChatServer
 https://github.com/thenaserov/Qtcp_folder_file_sharing_multithread
 # Python CLI Chat app:
 https://github.com/thenaserov/ChatAppy
+
+# Protocols
+HTTP methods: https://github.com/curl/curl
